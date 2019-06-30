@@ -1,0 +1,14 @@
+C:\Users\бейсеевс.CORP\Desktop\SimpleGameServer\SimpleGameServer\bin\Debug\SimpleGameServer.exe.config
+C:\Users\бейсеевс.CORP\Desktop\SimpleGameServer\SimpleGameServer\bin\Debug\SimpleGameServer.exe
+C:\Users\бейсеевс.CORP\Desktop\SimpleGameServer\SimpleGameServer\bin\Debug\SimpleGameServer.pdb
+C:\Users\бейсеевс.CORP\Desktop\SimpleGameServer\SimpleGameServer\obj\Debug\SimpleGameServer.csprojAssemblyReference.cache
+C:\Users\бейсеевс.CORP\Desktop\SimpleGameServer\SimpleGameServer\obj\Debug\SimpleGameServer.csproj.CoreCompileInputs.cache
+C:\Users\бейсеевс.CORP\Desktop\SimpleGameServer\SimpleGameServer\obj\Debug\SimpleGameServer.exe
+C:\Users\бейсеевс.CORP\Desktop\SimpleGameServer\SimpleGameServer\obj\Debug\SimpleGameServer.pdb
+D:\Documents\ШАГ\net\8_Examen\SimpleGameServer\SimpleGameServer\bin\Debug\SimpleGameServer.exe.config
+D:\Documents\ШАГ\net\8_Examen\SimpleGameServer\SimpleGameServer\bin\Debug\SimpleGameServer.exe
+D:\Documents\ШАГ\net\8_Examen\SimpleGameServer\SimpleGameServer\bin\Debug\SimpleGameServer.pdb
+D:\Documents\ШАГ\net\8_Examen\SimpleGameServer\SimpleGameServer\obj\Debug\SimpleGameServer.csprojResolveAssemblyReference.cache
+D:\Documents\ШАГ\net\8_Examen\SimpleGameServer\SimpleGameServer\obj\Debug\SimpleGameServer.csproj.CoreCompileInputs.cache
+D:\Documents\ШАГ\net\8_Examen\SimpleGameServer\SimpleGameServer\obj\Debug\SimpleGameServer.exe
+D:\Documents\ШАГ\net\8_Examen\SimpleGameServer\SimpleGameServer\obj\Debug\SimpleGameServer.pdb

@@ -1,0 +1,27 @@
+﻿<Window x:Class="ClientWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientWPF"
+        mc:Ignorable="d"
+		
+		xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+		
+        Title="MainWindow" Height="461.842" Width="481.659">
+	<Grid>
+		<Button Click="ConnectButtonClick" Content="Соединиться с сервером" HorizontalAlignment="Left" Margin="144,192,0,0" VerticalAlignment="Top" Width="199"/>
+		<TextBlock Text="Сервер=127.0.0.1, порт=12345" HorizontalAlignment="Left" Margin="144,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199" Height="20"/>
+		<Button Click="StartGameButtonClick" Content="Играть по сети 1 на 1" HorizontalAlignment="Left" Margin="144,276,0,0" VerticalAlignment="Top" Width="199"/>
+		<TextBlock HorizontalAlignment="Left" Margin="204,80,0,0" TextWrapping="Wrap" Text="мой ID:" VerticalAlignment="Top" Width="67"/>
+		<TextBlock Name="idElement" HorizontalAlignment="Left" Margin="101,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="288"/>
+
+	</Grid>
+</Window>
